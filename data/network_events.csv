@@ -1,0 +1,6 @@
+timestamp_utc,host,event_type,query_or_domain,destination_ip,action
+2026-10-20T10:00:01Z,WS-014,dns,intranet.example,192.0.2.20,query
+2026-10-20T10:00:05Z,WS-014,dns,updates-example.invalid,203.0.113.20,query
+2026-10-20T10:00:08Z,WS-014,connection,updates-example.invalid,203.0.113.20,allowed
+2026-10-20T10:02:10Z,WS-014,dns,intranet.example,192.0.2.20,query
+2026-10-20T10:03:44Z,WS-021,dns,login-example.invalid,198.51.100.22,query
